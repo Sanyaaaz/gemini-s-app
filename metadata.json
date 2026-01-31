@@ -1,0 +1,8 @@
+{
+  "name": "Copy of KisanMitr - Digital Farmer Companion",
+  "description": "A comprehensive mobile-first platform for farmers and buyers, providing marketplace access, inventory management, loan recommendations, and multilingual voice support.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
